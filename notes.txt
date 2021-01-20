@@ -1,0 +1,6 @@
+nodemon- runs the code
+Ctrl + C quits the serve
+rs for restarting
+
+req= request
+res= response
